@@ -10,7 +10,7 @@ This is a PHP web app built with [CodeIgniter](http://www.codeigniter.com/) that
 to Azure App Service. 
 
 To learn how to deploy this starter web app to App Service in a few minutes, go to 
-[Get started with web apps in Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/app-service-web-get-started/). 
+[Get started with web apps in Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/app-service-web-php-get-started/). 
 
 It is minimally modified from the default CodeIgniter template to work with App Service. Namely, the `/vendor` 
 folder is no longer ignored in `.gitignore`, so that your composer installed packages will be 
